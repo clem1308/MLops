@@ -1,0 +1,13 @@
+Packages et versions utlisées: 
+
+pandas -> version: 1.3.3
+
+scikit-learn -> version: 0.24.2
+
+matplotlib -> version: 3.4.3
+
+seaborn -> version: 0.11.2
+
+scipy -> version: 1.7.1
+
+numpy -> version: 1.21.2
